@@ -1,0 +1,55 @@
+/bin/
+/venv
+/**/out/
+.vscode
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+.gradle
+.pydevproject
+LOG_FILE_IS_UNDEFINED*
+
+### mac os ###
+.DS_Store
+
+# cwl venv
+*/venv/
+logs
+/venv/
+target/
+
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate*
+/.run/
+
+.jpb
+api-contract
+/vdi
